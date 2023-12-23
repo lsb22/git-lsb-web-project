@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.js-title{
+    font-family: Arial;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.js-image{
+    height: 60px;
+}
+
+.style-it{
+    background-color: transparent;
+    border: 3px solid white;
+    height:120px;
+    width: 120px;
+    border-radius: 60px;
+    margin-right:20px;
+}
+
+.classp1{
+    font-family: Arial;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 50px;
+    
+}
+
+.js-score{
+    margin-top: 50px;
+    font-style: Arial;
+    font-size: 20px;
+}
+
+.score-butt,
+.js-play-auto{
+    margin-top: 30px;
+    border: none;
+    background-color: white;
+    padding: 15px 10px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
